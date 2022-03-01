@@ -1,0 +1,15 @@
+/Users/JonathanGilmer/Desktop/Repos/FactoryPatternExercise/FactoryPatternExercise/bin/Debug/net5.0/FactoryPatternExercise.deps.json
+/Users/JonathanGilmer/Desktop/Repos/FactoryPatternExercise/FactoryPatternExercise/bin/Debug/net5.0/FactoryPatternExercise.runtimeconfig.json
+/Users/JonathanGilmer/Desktop/Repos/FactoryPatternExercise/FactoryPatternExercise/bin/Debug/net5.0/FactoryPatternExercise.runtimeconfig.dev.json
+/Users/JonathanGilmer/Desktop/Repos/FactoryPatternExercise/FactoryPatternExercise/bin/Debug/net5.0/FactoryPatternExercise.dll
+/Users/JonathanGilmer/Desktop/Repos/FactoryPatternExercise/FactoryPatternExercise/bin/Debug/net5.0/ref/FactoryPatternExercise.dll
+/Users/JonathanGilmer/Desktop/Repos/FactoryPatternExercise/FactoryPatternExercise/bin/Debug/net5.0/FactoryPatternExercise.pdb
+/Users/JonathanGilmer/Desktop/Repos/FactoryPatternExercise/FactoryPatternExercise/obj/Debug/net5.0/FactoryPatternExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JonathanGilmer/Desktop/Repos/FactoryPatternExercise/FactoryPatternExercise/obj/Debug/net5.0/FactoryPatternExercise.AssemblyInfoInputs.cache
+/Users/JonathanGilmer/Desktop/Repos/FactoryPatternExercise/FactoryPatternExercise/obj/Debug/net5.0/FactoryPatternExercise.AssemblyInfo.cs
+/Users/JonathanGilmer/Desktop/Repos/FactoryPatternExercise/FactoryPatternExercise/obj/Debug/net5.0/FactoryPatternExercise.csproj.CoreCompileInputs.cache
+/Users/JonathanGilmer/Desktop/Repos/FactoryPatternExercise/FactoryPatternExercise/obj/Debug/net5.0/FactoryPatternExercise.dll
+/Users/JonathanGilmer/Desktop/Repos/FactoryPatternExercise/FactoryPatternExercise/obj/Debug/net5.0/ref/FactoryPatternExercise.dll
+/Users/JonathanGilmer/Desktop/Repos/FactoryPatternExercise/FactoryPatternExercise/obj/Debug/net5.0/FactoryPatternExercise.pdb
+/Users/JonathanGilmer/Desktop/Repos/FactoryPatternExercise/FactoryPatternExercise/obj/Debug/net5.0/FactoryPatternExercise.genruntimeconfig.cache
+/Users/JonathanGilmer/Desktop/Repos/FactoryPatternExercise/FactoryPatternExercise/obj/Debug/net5.0/FactoryPatternExercise.csproj.AssemblyReference.cache

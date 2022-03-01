@@ -6,7 +6,15 @@ namespace FactoryPatternExercise
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string planeType = "";
+
+            Console.WriteLine("Do you want to fly a plane with engines or propellers?");
+            Console.WriteLine("\t(Type \"engines\" or \"propellers\" to choose)");
+            planeType = Console.ReadLine();
+
+            var yourPlane = AirplaneFactory.GetAirplane(planeType);
+            yourPlane.Fly();
+            Console.ReadKey();
         }
     }
 }
